@@ -1,9 +1,12 @@
-# odin-recipes
+# Odin Recipes
 
-Set up your README.md file and write a brief
-introduction describing what the current project
-is and what skills you will have demonstrated once
-you have completed it.
-(You can also do this as a self-reflection at the
-end of the project, which is a good way to
-review what you have learned.)
+This project is part of The Odin Project Foundation Course.
+
+It is completely developed in HTML and the aim of Odin Recipes is to explore
+the potentiality of that markup language.
+
+The site is fairly simple: one homepage, three recipes pages. No CSS and no
+JavaScript are involved: as style, i had only to set the images' width.
+
+As content, you can find 3 nice Italian recipes. Enjoy them if you will decide
+to try!
