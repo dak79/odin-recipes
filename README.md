@@ -8,5 +8,5 @@ the potentiality of that markup language.
 The site is fairly simple: one homepage, three recipes pages. No CSS and no
 JavaScript are involved: as style, i had only to set the images' width.
 
-As content, you can find 3 nice Italian recipes. Enjoy them if you will decide
-to try!
+As content, you can find 3 nice Italian recipes. Enjoy if you will decide
+to give them a try!
