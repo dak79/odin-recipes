@@ -1,4 +1,4 @@
-# Odin Recipes
+# Recipes
 
 ## Live Preview
 [Recipes](https://dak79.github.io/odin-recipes/)
