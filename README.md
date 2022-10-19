@@ -4,7 +4,7 @@
 [Recipes](https://dak79.github.io/odin-recipes/)
 
 ## Description
-This project is part of [The Odin Project Foundation Course] (https://www.theodinproject.com/lessons/foundations-recipes).
+This project is part of [The Odin Project Foundation Course](https://www.theodinproject.com/lessons/foundations-recipes).
 The design is fairly simple multipage website: one homepage, three recipes pages.
 As content, you can find 3 nice Italian recipes. Enjoy if you will decide
 to give them a try!
