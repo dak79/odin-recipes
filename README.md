@@ -20,7 +20,7 @@ the potentiality of that markup language.
 CSS is added as an activity requested from course.
 No JavaScript is involved.
 
-## Assignemt
+## Assignement
 * Initial Structure
 Within the odin-recipes directory, create an index.html file, fill it out with the usual boilerplate HTML and add an h1 heading “Odin Recipes” to the body.
 
